@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638445200543801892
-    m_Hash: 3373162639
+      ticks: 638446058889958600
+    m_Hash: 3967703519
   m_LockFileStatus:
     m_FilePath: C:/SE2250B/Lab5_OmarHalane23/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638445201875033954
-    m_Hash: 2530906519
+      ticks: 638446058889968566
+    m_Hash: 3521860300
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
