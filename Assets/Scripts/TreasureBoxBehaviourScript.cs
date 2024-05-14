@@ -8,7 +8,7 @@ public class TreasureBoxBehaviourScript : MonoBehaviour
 {
     CharacterController controller;
     Vector3 movePos;
-    float speed = 3;
+    public float speed = 3;
     public TMP_Text scoreText; //for the TMP text
     public TMP_Text statusText;
     private int score;
